@@ -37,7 +37,7 @@ class login_pane(QWidget, Ui_LoginForm):
         self.setupUi(self)
 
         self.setWindowTitle("登陆")
-        self.setWindowIcon(QtGui.QIcon(':/favicon.ico'))
+        self.setWindowIcon(QtGui.QIcon('./favicon.ico'))
 
         ######  登录页面头图设置 完美显示图片，并自适应大小
         pix = QtGui.QPixmap("./bg7699.png")

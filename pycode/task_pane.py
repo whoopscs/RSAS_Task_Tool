@@ -38,7 +38,7 @@ class task_pane(QWidget, Ui_Task):
         self.password = passwd
 
         self.setWindowTitle("RSAS_Task_Tool")
-        self.setWindowIcon(QtGui.QIcon(':/favicon.ico'))
+        self.setWindowIcon(QtGui.QIcon('./favicon.ico'))
         ###### 显示窗口在屏幕中间
         self.center()
         ###### 任务界面提示用户名&&扫描器地址
