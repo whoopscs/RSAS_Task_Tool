@@ -1,0 +1,4 @@
+requests==2.25.0
+PyQt5==5.15.2
+lxml==4.6.2
+selenium==3.141.0
