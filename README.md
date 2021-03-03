@@ -108,11 +108,11 @@ Microsoft Edge（Chromium）的驱动msedgedriver 下载地址：https://develop
 ------
 ## 0x03 演示
 
-<img src="https://github.com/sqandan/RSAS_Task_Tool/blob/master/images/login.png" width = "50%" height="50%"/>
+<img src="https://github.com/sqandan/RSAS_Task_Tool/blob/master/images/login.png" width = "50%"/>
 
-<img src="https://github.com/sqandan/RSAS_Task_Tool/blob/master/images/Host_Task.png" width = "50%" height="50%"/>
+<img src="https://github.com/sqandan/RSAS_Task_Tool/blob/master/images/Host_Task.png" width = "50%"/>
 
-<img src="https://github.com/sqandan/RSAS_Task_Tool/blob/master/images/Web_Task.png" width = "50%" height="50%"/>
+<img src="https://github.com/sqandan/RSAS_Task_Tool/blob/master/images/Web_Task.png" width = "50%"/>
 
 ------
 ## 0x04 更新
