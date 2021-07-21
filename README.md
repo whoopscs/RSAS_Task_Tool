@@ -19,14 +19,14 @@
 🤡个人练习项目，代码写的有些拖沓，如有改进的地方，期待各位大佬指点。
 
 ------
-#### 扩展功能
+#### 已实现扩展功能
 
 * [x] 主机扫描（批量）
 * [x] Web扫描（批量）
 * [ ] 扫描任务管理
-* [ ] 扫描报告下载
+* [ ] 扫描报表下载
 * [ ] 自定义报告导出
-* [ ] 扩展脚本
+* [ ] 其他扩展脚本
 ------
 ## 0x02 使用
 
@@ -127,18 +127,14 @@ https://github.com/
 
 如果你点击这个按钮提示版本不符，请自行下载本机`Microsoft Edge`版本对应的`WebDriver驱动`并替换此程序目录下的`msedgedriver.exe`
 
-Microsoft Edge（Chromium）的驱动msedgedriver 下载地址：https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+Microsoft Edge（Chromium）的驱动msedgedriver 下载地址：
+
+https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 
 ------
 ## 0x03 演示
 
 ![image-2021466](Images/image-2021466.gif)
-
-<div align=center><img src="https://github.com/wylsy/RSAS_Task_Tool/blob/master/images/login.png" width = "50%" /></div>
-
-<div align=center><img src="https://github.com/wylsy/RSAS_Task_Tool/blob/master/images/Host_Task.png" width = "70%" /></div>
-
-<div align=center><img src="https://github.com/wylsy/RSAS_Task_Tool/blob/master/images/Web_Task.png" width = "70%" /></div>
 
 ------
 ## 0x04 更新
