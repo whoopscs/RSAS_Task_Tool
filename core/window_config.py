@@ -4,7 +4,7 @@
 @Author         :  s0nder
 @Email          :  wylsyr@gmail.com
 ------------------------------------
-@File           :  config_pane.py
+@File           :  window_config.py
 @CreateTime     :  2021/1/26/0026 20:45
 @Version        :  1.0
 @Description    :  

@@ -4,7 +4,7 @@
 @Author         :  s0nder
 @Email          :  wylsyr@gmail.com
 ------------------------------------
-@File           :  MainWindow.py
+@File           :  window_main.py
 @CreateTime     :  2021/1/26/0026 21:23
 @Version        :  1.0
 @Description    :  

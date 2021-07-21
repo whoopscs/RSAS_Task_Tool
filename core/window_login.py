@@ -4,7 +4,7 @@
 @Author         :  s0nder
 @Email          :  wylsyr@gmail.com
 ------------------------------------
-@File           :  login_pane.py
+@File           :  window_login.py
 @CreateTime     :  2021/1/26/0026 20:28
 @Version        :  1.0
 @Description    :
@@ -22,7 +22,7 @@ from PyQt5.QtGui import QDesktopServices
 from PyQt5.QtWidgets import QWidget, QDesktopWidget
 from core.ui_login import Ui_LoginForm
 from core.window_config import *
-from core.window_mian import main_window
+from core.window_main import main_window
 from core.rsas_req import *
 
 
