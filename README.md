@@ -157,6 +157,7 @@ https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 ## 0x05 完结✿✿ヽ(°▽°)ノ✿
 
 https://github.com/wylsy/RSAS_Task_Tool
+https://gitee.com/s0nder/RSAS_Task_Tool
 
 ------
 
