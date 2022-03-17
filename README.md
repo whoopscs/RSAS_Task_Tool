@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Author](https://img.shields.io/badge/Author-s0nder-9cf)](https://github.com/wylsy)
-[![version](https://img.shields.io/badge/version-2.0-brightgreen)](https://github.com/wylsy/RSAS_Task_Tool)
-[![python](https://img.shields.io/badge/Python-3.8-blue)](https://github.com/wylsy/RSAS_Task_Tool)
+[![Author](https://img.shields.io/badge/Author-s0nd9r-9cf)](https://github.com/s0nd9r)
+[![version](https://img.shields.io/badge/version-2.0-brightgreen)](https://github.com/s0nd9r/RSAS_Task_Tool)
+[![python](https://img.shields.io/badge/Python-3.8-blue)](https://github.com/s0nd9r/RSAS_Task_Tool)
 
 </div>
 
@@ -156,9 +156,13 @@ https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 ------
 ## 0x05 完结✿✿ヽ(°▽°)ノ✿
 
-https://github.com/wylsy/RSAS_Task_Tool
-https://gitee.com/s0nder/RSAS_Task_Tool
+https://github.com/s0nd9r/RSAS_Task_Tool
+
+https://gitee.com/s0nd9r/RSAS_Task_Tool
 
 ------
+## 🏁 Star曲线
+
+![star](https://starchart.cc/s0nd9r/RSAS_Task_Tool.svg)
 
 ------
